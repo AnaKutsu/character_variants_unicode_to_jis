@@ -1,0 +1,1 @@
+# character_variants_unicode_to_jisx0208
