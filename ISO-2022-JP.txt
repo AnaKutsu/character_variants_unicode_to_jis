@@ -3503,3 +3503,10 @@ D864	9F13
 # Mapping from cjkvi-variants x0212-x0213-variants.txt
 # U+7E6B > U+7E4B (繫 > 繋)
 7E6B	7E4B
+# Additional mapping
+# U+301C > U+FF5E (〜 > ～)
+301C	FF5E
+# U+2043 > U+002D (⁃ > -)
+2043	002D
+# U+FF0D > U+2010 (⁃ > ‐)
+FF0D	2010
